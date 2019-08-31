@@ -8,6 +8,7 @@
 
 
 <br>
+
 # 01. Python_Programming_basic(1)
 
 - 총 54차시가 기획되어 있는  파이썬 프로그래밍 기초(1)이다.
@@ -32,6 +33,7 @@
 
 
 <br>
+
 # 02. Python_Programming_basic(2)
 
 - 총 50차시가 기획되어 있는 파이썬 프로그래밍 기초(2)이다.
@@ -44,6 +46,7 @@
 
 
 <br>
+
 # 03. Python_Programming_basic(2)_chapter43
 
 - 파이썬 프로그래밍 기초(2)에 있는 43차시에 관한 예제 코드를 모아놓은 파일이다.
