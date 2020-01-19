@@ -1,5 +1,6 @@
 # 00. 서론
 
+- Jul 9, 2019 ~ Jul 13, 2019
 - Before_SSAFY는 SSAFY를 시작하기 전 사전학습의 일환으로 시작되었다.
 - SW Expert Academy > Learn > Course > Programming Beginner > 파이썬 프로그래밍 기초(1)과 (2)이다.
 - 문제의 저작권은 SW Expert Academy에 있다.
